@@ -2,4 +2,4 @@
 
 #Under threads, Introduction to QtConcurrent discussed and
 
-#SourceCode to be added soon
+#SourceCode added 
